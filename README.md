@@ -3,7 +3,7 @@ A library for sending STOMP messages over WebSocket written in C language
 
 First release : v.0.0.5 Initial Streaming Support(
 * - \* changes are needed for standard behavior. at the moment, the programmer must ensure that the headers and body of the frame are set correctly, 
-* - ** don't support server message RECEIPT so the command is simply sent and the connection is closed)
+* - ** don't support server message RECEIPT so the command is simply sent and the connection is closed
 
 Heart-beating : don't support now;
 
