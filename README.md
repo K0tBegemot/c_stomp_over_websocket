@@ -9,6 +9,11 @@ Heart-beating : don't support now;
 
 See file sender.c for usage example. Lib was tested with SPRING Boot v.3.0.5
 
+Dependencies : 
+1. Libwebsockets : https://github.com/warmcat/libwebsockets
+OR
+(Not supported now) Websocket_for_linux : https://github.com/wexiangis/websocket_for_linux
+
 <table>
 <tr>
 <th>STOMP frame</th>
